@@ -1,0 +1,122 @@
+*{
+    background-color:whitesmoke;
+    color: black;  /* this is use for background*/
+
+}
+a {
+    color: blue; 
+    margin-left: 5px;/* Change the color to your desired color */
+}
+.cas{
+    background-color:#1B1A59;
+    color: white;
+    font-family: monospace;  /* this is responsible for head element*/
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+   
+h2{
+
+    color:black;
+    font-family: monospace;
+    font-size: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    
+    font-family: monospace;
+    font-size: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+}
+h4{
+    color: black;
+    font-family: monospace;
+    font-size: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+.box{
+color: blue;
+
+}
+.box>p {
+    color: black;
+    font-weight: bolder;
+    margin-left: auto;
+    margin-right: auto;
+}
+li.done{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+ul p.done{
+    color: black;
+    font-size: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+margin-top: 25px;
+margin-bottom: 25px;
+margin-left: auto;
+margin-right: auto;
+}
+.fire-sign span {
+    color:black; /* Change this to the color you desire */
+}
+.earth-sign span{
+    color: black;
+}
+.air-sign span {
+    color:black; }/* Change this to the color you desire */
+  .water-sign span {
+        color: black; }
+#links a{
+    font-size: 20px;
+    margin-left:auto;
+    margin-right: auto;
+}
+   img{
+    margin-bottom: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+   }     
+
+   .container {
+    position: relative;
+    display:inline-block; /* Ensures container fits the size of the GIF */
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    
+  }
+
+ 
+  
+  
